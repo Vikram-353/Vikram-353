@@ -19,7 +19,7 @@ I am a passionate **B.Tech student in Artificial Intelligence and Data Science**
 - Features smooth scrolling navigation and dynamic components.
 - Implements modern UI/UX practices using Tailwind CSS.
 
-### 2. [Shift Handover System](https://github.com/Vikram-353/Shift-Handover-System)
+### 2. [Shift Handover System](https://github.com/Vikram-353/Code-Streak-SIH-2024)
 - A comprehensive web application for managing shift handovers in coal mining operations.
 - Allows for tracking attendance, creating hazard reports, and integrating external systems.
 - Generates PDFs for reports using `pdfMake`.
