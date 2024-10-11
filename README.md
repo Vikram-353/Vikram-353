@@ -27,7 +27,7 @@ I am a passionate **B.Tech student in Artificial Intelligence and Data Science**
 ## 📫 Get in Touch
 
 - **Email:** [your.email@example.com](mailto:vikramranjan71122@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vikram_ranjan890](https://linkedin.com/in/vikram_ranjan890)
+- **LinkedIn:** [linkedin.com/in/vikram_ranjan890](https://linkedin.com/in/vikram-ranjan890)
 
 ## 🔗 Connect with Me
 
