@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Vikram Ranjan
 
-![Banner](https://www.canva.com/design/DAGTSPzTihg/3YS557i1dFFHZvs0371APA/edit?utm_content=DAGTSPzTihg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://www.canva.com/design/DAGTSPzTihg/S30b840ICtr8bmAhPvZSGQ/view?utm_content=DAGTSPzTihg&utm_campaign=designshare&utm_medium=link&utm_source=editor?text=Welcome+to+My+GitHub+Profile)
 
 ## About Me
 
