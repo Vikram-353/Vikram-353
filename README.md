@@ -32,7 +32,7 @@ I am a passionate **B.Tech student in Artificial Intelligence and Data Science**
 ## 🔗 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-VikramRanjan-blue?logo=github)](https://github.com/Vikram-353)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VikramRanjan-blue?logo=linkedin)](https://linkedin.com/in/vikramranjan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VikramRanjan-blue?logo=linkedin)](https://www.linkedin.com/in/vikram-ranjan890/)
 ---
 
 ### 💡 Fun Fact
