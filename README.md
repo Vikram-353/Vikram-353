@@ -1,5 +1,4 @@
 # 👋 Hello! I'm Vikram Ranjan
-![Banner](https://github.com/Vikram-353/React-Landing-Page/raw/main/banner.png)
 
 ## About Me
 
